@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# CV
-klesti fetiu CV
 =======
 # Klesti Fetiu
 
@@ -19,13 +16,23 @@ Enthusiastic and motivated professional with a strong interest in DevSecOps. Eag
 
 ## Professional Experience
 
-**Myriad Consulting** - Tirane  
-*IT*  
-*2020-2021*
+**Guardner sh.p.k**  
+*My Startup*
 
-- Designed and implemented secure network infrastructure using MikroTik routers and VLANs.
-- Active directory and server management.
-- Endpoint monitoring and assistance services.
+- Integrated SAST, DAST, and IAST tools like GitLab IAST, Tirve, KICS, Checkmarx, Rego policy, and custom CI/CD pipelines.
+- Improved code quality and security through automated testing and compliance checks.
+- Managed SUSE-based infrastructure.
+- Deployed Rancher-based solutions (Harvester HCI, NeuVector, Longhorn).
+- Implemented agent-based observability.
+
+**Lufthansa Industry Solutions TIA**  
+*DevOps Engineer*  
+*2022-2024*
+
+- Worked as an external employee for Hamburg Süd, providing 2nd-3rd level support and performing operations 24/7 on shifts.
+- Maintained and monitored Linux infrastructure (Prometheus stack/Grafana).
+- Managed GitOps and infrastructure migrations into Azure and Kubernetes, including migrating the old TIBCO stack to Rust interfaces developed in-house and deploying these in Kubernetes as microservices.
+- Scripted in Python, Bash, and PowerShell for monitoring different components and automating old static processes.
 
 **First sh.p.k** - Tirane  
 *Security Engineer*  
@@ -37,23 +44,13 @@ Enthusiastic and motivated professional with a strong interest in DevSecOps. Eag
 - Application pentests (web app/REST API light pentests).
 - Some internal sysadmin tasks (VMware farm, Veeam, and more).
 
-**Lufthansa Industry Solutions TIA**  
-*DevOps Engineer*  
-*2022-2024*
+**Myriad Consulting** - Tirane  
+*IT*  
+*2020-2021*
 
-- Worked as an external employee for Hamburg Süd, providing 2nd-3rd level support and performing operations 24/7 on shifts.
-- Maintained and monitored Linux infrastructure (Prometheus stack/Grafana).
-- Managed GitOps and infrastructure migrations into Azure and Kubernetes, including migrating the old TIBCO stack to Rust interfaces developed in-house and deploying these in Kubernetes as microservices.
-- Scripted in Python, Bash, and PowerShell for monitoring different components and automating old static processes.
-
-**Guardner sh.p.k**  
-*My Startup*
-
-- Integrated SAST, DAST, and IAST tools like GitLab IAST, Tirve, KICS, Checkmarx, Rego policy, and custom CI/CD pipelines.
-- Improved code quality and security through automated testing and compliance checks.
-- Managed SUSE-based infrastructure.
-- Deployed Rancher-based solutions (Harvester HCI, NeuVector, Longhorn).
-- Implemented agent-based observability.
+- Designed and implemented secure network infrastructure using MikroTik routers and VLANs.
+- Active directory and server management.
+- Endpoint monitoring and assistance services.
 
 ---
 
@@ -137,4 +134,3 @@ Enthusiastic and motivated professional with a strong interest in DevSecOps. Eag
 - Networking and Security
 - Programming
 - Small, useful, and detailed crafted items
->>>>>>> c2bd990 (linkedin-url)
